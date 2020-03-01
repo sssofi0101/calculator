@@ -1,0 +1,12 @@
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\bin\Debug\netcoreapp3.0\калькулятор.exe
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\bin\Debug\netcoreapp3.0\kalkulator\.gitattributes
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\bin\Debug\netcoreapp3.0\калькулятор.deps.json
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\bin\Debug\netcoreapp3.0\калькулятор.runtimeconfig.json
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\bin\Debug\netcoreapp3.0\калькулятор.runtimeconfig.dev.json
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\bin\Debug\netcoreapp3.0\калькулятор.dll
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\bin\Debug\netcoreapp3.0\калькулятор.pdb
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\obj\Debug\netcoreapp3.0\калькулятор.csprojAssemblyReference.cache
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\obj\Debug\netcoreapp3.0\калькулятор.AssemblyInfoInputs.cache
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\obj\Debug\netcoreapp3.0\калькулятор.AssemblyInfo.cs
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\obj\Debug\netcoreapp3.0\калькулятор.dll
+D:\Sofi\калькулятор_efsol\калькулятор\калькулятор\obj\Debug\netcoreapp3.0\калькулятор.pdb
